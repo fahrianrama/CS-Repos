@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\bin\Debug\Laprak1.exe.config
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\bin\Debug\Laprak1.exe
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\bin\Debug\Laprak1.pdb
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\obj\Debug\Laprak1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\obj\Debug\Laprak1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\obj\Debug\Laprak1.exe
+C:\Users\lenovo\source\repos\Laprak1\Laprak1\obj\Debug\Laprak1.pdb

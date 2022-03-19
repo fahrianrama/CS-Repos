@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\bin\Debug\Soal 2.exe.config
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\bin\Debug\Soal 2.exe
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\bin\Debug\Soal 2.pdb
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\obj\Debug\Soal 2.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\obj\Debug\Soal 2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\obj\Debug\Soal 2.exe
+C:\Users\lenovo\source\repos\Soal 2\Soal 2\obj\Debug\Soal 2.pdb

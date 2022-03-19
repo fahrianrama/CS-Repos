@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Tutor\Tutor\bin\Debug\Tutor.exe.config
+C:\Users\lenovo\source\repos\Tutor\Tutor\bin\Debug\Tutor.exe
+C:\Users\lenovo\source\repos\Tutor\Tutor\bin\Debug\Tutor.pdb
+C:\Users\lenovo\source\repos\Tutor\Tutor\obj\Debug\Tutor.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Tutor\Tutor\obj\Debug\Tutor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Tutor\Tutor\obj\Debug\Tutor.exe
+C:\Users\lenovo\source\repos\Tutor\Tutor\obj\Debug\Tutor.pdb

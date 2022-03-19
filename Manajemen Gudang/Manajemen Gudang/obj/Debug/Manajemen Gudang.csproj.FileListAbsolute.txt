@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\bin\Debug\Manajemen Gudang.exe.config
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\bin\Debug\Manajemen Gudang.exe
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\bin\Debug\Manajemen Gudang.pdb
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\obj\Debug\Manajemen Gudang.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\obj\Debug\Manajemen Gudang.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\obj\Debug\Manajemen Gudang.exe
+C:\Users\lenovo\source\repos\Manajemen Gudang\Manajemen Gudang\obj\Debug\Manajemen Gudang.pdb

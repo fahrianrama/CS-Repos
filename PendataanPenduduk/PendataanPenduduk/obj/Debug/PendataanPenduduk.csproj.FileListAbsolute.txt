@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\bin\Debug\PendataanPenduduk.exe.config
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\bin\Debug\PendataanPenduduk.exe
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\bin\Debug\PendataanPenduduk.pdb
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\obj\Debug\PendataanPenduduk.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\obj\Debug\PendataanPenduduk.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\obj\Debug\PendataanPenduduk.exe
+C:\Users\lenovo\source\repos\PendataanPenduduk\PendataanPenduduk\obj\Debug\PendataanPenduduk.pdb

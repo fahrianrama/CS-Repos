@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\bin\Debug\Shuriken.exe.config
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\bin\Debug\Shuriken.exe
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\bin\Debug\Shuriken.pdb
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\obj\Debug\Shuriken.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\obj\Debug\Shuriken.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\obj\Debug\Shuriken.exe
+C:\Users\lenovo\source\repos\Shuriken\Shuriken\obj\Debug\Shuriken.pdb

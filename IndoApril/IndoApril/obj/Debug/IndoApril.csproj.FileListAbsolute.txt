@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\bin\Debug\IndoApril.exe.config
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\bin\Debug\IndoApril.exe
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\bin\Debug\IndoApril.pdb
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\obj\Debug\IndoApril.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\obj\Debug\IndoApril.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\obj\Debug\IndoApril.exe
+C:\Users\lenovo\source\repos\IndoApril\IndoApril\obj\Debug\IndoApril.pdb

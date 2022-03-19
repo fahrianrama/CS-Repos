@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Gajian\Gajian\obj\Debug\Gajian.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Gajian\Gajian\obj\Debug\Gajian.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Gajian\Gajian\bin\Debug\Gajian.exe.config
+C:\Users\lenovo\source\repos\Gajian\Gajian\bin\Debug\Gajian.exe
+C:\Users\lenovo\source\repos\Gajian\Gajian\bin\Debug\Gajian.pdb
+C:\Users\lenovo\source\repos\Gajian\Gajian\obj\Debug\Gajian.exe
+C:\Users\lenovo\source\repos\Gajian\Gajian\obj\Debug\Gajian.pdb

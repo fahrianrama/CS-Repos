@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Pisau\Pisau\bin\Debug\Pisau.exe.config
+C:\Users\lenovo\source\repos\Pisau\Pisau\bin\Debug\Pisau.exe
+C:\Users\lenovo\source\repos\Pisau\Pisau\bin\Debug\Pisau.pdb
+C:\Users\lenovo\source\repos\Pisau\Pisau\obj\Debug\Pisau.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Pisau\Pisau\obj\Debug\Pisau.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Pisau\Pisau\obj\Debug\Pisau.exe
+C:\Users\lenovo\source\repos\Pisau\Pisau\obj\Debug\Pisau.pdb

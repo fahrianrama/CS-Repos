@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\bin\Debug\Stok Buah.exe.config
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\bin\Debug\Stok Buah.exe
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\bin\Debug\Stok Buah.pdb
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\obj\Debug\Stok Buah.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\obj\Debug\Stok Buah.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\obj\Debug\Stok Buah.exe
+C:\Users\lenovo\source\repos\Stok Buah\Stok Buah\obj\Debug\Stok Buah.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\obj\Debug\Hitung_Bangun.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\obj\Debug\Hitung_Bangun.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\bin\Debug\Hitung_Bangun.exe.config
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\bin\Debug\Hitung_Bangun.exe
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\bin\Debug\Hitung_Bangun.pdb
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\obj\Debug\Hitung_Bangun.exe
+C:\Users\lenovo\source\repos\Hitung_Bangun\Hitung_Bangun\obj\Debug\Hitung_Bangun.pdb

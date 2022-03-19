@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Console\Console\bin\Debug\Console.exe.config
+C:\Users\lenovo\source\repos\Console\Console\bin\Debug\Console.exe
+C:\Users\lenovo\source\repos\Console\Console\bin\Debug\Console.pdb
+C:\Users\lenovo\source\repos\Console\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Console\Console\obj\Debug\Console.exe
+C:\Users\lenovo\source\repos\Console\Console\obj\Debug\Console.pdb

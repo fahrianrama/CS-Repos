@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\scroll\scroll\bin\Debug\scroll.exe.config
+C:\Users\lenovo\source\repos\scroll\scroll\bin\Debug\scroll.exe
+C:\Users\lenovo\source\repos\scroll\scroll\bin\Debug\scroll.pdb
+C:\Users\lenovo\source\repos\scroll\scroll\obj\Debug\scroll.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\scroll\scroll\obj\Debug\scroll.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\scroll\scroll\obj\Debug\scroll.exe
+C:\Users\lenovo\source\repos\scroll\scroll\obj\Debug\scroll.pdb

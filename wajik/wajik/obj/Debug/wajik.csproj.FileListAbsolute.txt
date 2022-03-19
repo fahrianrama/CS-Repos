@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\wajik\wajik\bin\Debug\wajik.exe.config
+C:\Users\lenovo\source\repos\wajik\wajik\bin\Debug\wajik.exe
+C:\Users\lenovo\source\repos\wajik\wajik\bin\Debug\wajik.pdb
+C:\Users\lenovo\source\repos\wajik\wajik\obj\Debug\wajik.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\wajik\wajik\obj\Debug\wajik.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\wajik\wajik\obj\Debug\wajik.exe
+C:\Users\lenovo\source\repos\wajik\wajik\obj\Debug\wajik.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\InMath\InMath\bin\Debug\InMath.exe.config
+C:\Users\lenovo\source\repos\InMath\InMath\bin\Debug\InMath.exe
+C:\Users\lenovo\source\repos\InMath\InMath\bin\Debug\InMath.pdb
+C:\Users\lenovo\source\repos\InMath\InMath\obj\Debug\InMath.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\InMath\InMath\obj\Debug\InMath.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\InMath\InMath\obj\Debug\InMath.exe
+C:\Users\lenovo\source\repos\InMath\InMath\obj\Debug\InMath.pdb

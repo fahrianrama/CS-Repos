@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\obj\Debug\LifeSim.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\obj\Debug\LifeSim.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\bin\Debug\LifeSim.exe.config
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\bin\Debug\LifeSim.exe
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\bin\Debug\LifeSim.pdb
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\obj\Debug\LifeSim.exe
+C:\Users\lenovo\source\repos\LifeSim\LifeSim\obj\Debug\LifeSim.pdb

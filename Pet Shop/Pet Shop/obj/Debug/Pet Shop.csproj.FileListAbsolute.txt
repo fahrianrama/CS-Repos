@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Users\lenovo\source\repos\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb

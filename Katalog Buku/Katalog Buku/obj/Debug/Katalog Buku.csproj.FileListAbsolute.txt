@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\bin\Debug\Katalog Buku.exe.config
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\bin\Debug\Katalog Buku.exe
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\bin\Debug\Katalog Buku.pdb
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\obj\Debug\Katalog Buku.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\obj\Debug\Katalog Buku.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\obj\Debug\Katalog Buku.exe
+C:\Users\lenovo\source\repos\Katalog Buku\Katalog Buku\obj\Debug\Katalog Buku.pdb

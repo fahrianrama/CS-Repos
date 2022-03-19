@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\bin\Debug\Pengelolaan Hasil Panen.exe.config
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\bin\Debug\Pengelolaan Hasil Panen.exe
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\bin\Debug\Pengelolaan Hasil Panen.pdb
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\obj\Debug\Pengelolaan Hasil Panen.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\obj\Debug\Pengelolaan Hasil Panen.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\obj\Debug\Pengelolaan Hasil Panen.exe
+C:\Users\lenovo\source\repos\Pengelolaan Hasil Panen\Pengelolaan Hasil Panen\obj\Debug\Pengelolaan Hasil Panen.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\bin\Debug\Bentuk_Bangun.exe.config
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\bin\Debug\Bentuk_Bangun.exe
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\bin\Debug\Bentuk_Bangun.pdb
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\obj\Debug\Bentuk_Bangun.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\obj\Debug\Bentuk_Bangun.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\obj\Debug\Bentuk_Bangun.exe
+C:\Users\lenovo\source\repos\Bentuk_Bangun\Bentuk_Bangun\obj\Debug\Bentuk_Bangun.pdb

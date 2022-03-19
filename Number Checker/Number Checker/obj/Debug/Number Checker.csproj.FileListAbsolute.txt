@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\bin\Debug\Number Checker.exe.config
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\bin\Debug\Number Checker.exe
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\bin\Debug\Number Checker.pdb
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\obj\Debug\Number Checker.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\obj\Debug\Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\obj\Debug\Number Checker.exe
+C:\Users\lenovo\source\repos\Number Checker\Number Checker\obj\Debug\Number Checker.pdb

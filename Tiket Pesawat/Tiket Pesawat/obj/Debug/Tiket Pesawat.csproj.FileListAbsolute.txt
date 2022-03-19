@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\bin\Debug\Tiket Pesawat.exe.config
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\bin\Debug\Tiket Pesawat.exe
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\bin\Debug\Tiket Pesawat.pdb
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\obj\Debug\Tiket Pesawat.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\obj\Debug\Tiket Pesawat.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\obj\Debug\Tiket Pesawat.exe
+C:\Users\lenovo\source\repos\Tiket Pesawat\Tiket Pesawat\obj\Debug\Tiket Pesawat.pdb

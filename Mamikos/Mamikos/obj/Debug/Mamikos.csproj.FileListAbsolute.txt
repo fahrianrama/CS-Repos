@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\bin\Debug\Mamikos.exe.config
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\bin\Debug\Mamikos.exe
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\bin\Debug\Mamikos.pdb
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\obj\Debug\Mamikos.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\obj\Debug\Mamikos.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\obj\Debug\Mamikos.exe
+C:\Users\lenovo\source\repos\Mamikos\Mamikos\obj\Debug\Mamikos.pdb

@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\bin\Debug\Aquascapeku.exe.config
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\bin\Debug\Aquascapeku.exe
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\bin\Debug\Aquascapeku.pdb
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\obj\Debug\Aquascapeku.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\obj\Debug\Aquascapeku.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\obj\Debug\Aquascapeku.exe
+C:\Users\lenovo\source\repos\Aquascapeku\Aquascapeku\obj\Debug\Aquascapeku.pdb

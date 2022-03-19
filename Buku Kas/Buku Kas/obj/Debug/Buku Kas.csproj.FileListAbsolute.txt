@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\bin\Debug\Buku Kas.exe.config
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\bin\Debug\Buku Kas.exe
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\bin\Debug\Buku Kas.pdb
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\obj\Debug\Buku Kas.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\obj\Debug\Buku Kas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\obj\Debug\Buku Kas.exe
+C:\Users\lenovo\source\repos\Buku Kas\Buku Kas\obj\Debug\Buku Kas.pdb
