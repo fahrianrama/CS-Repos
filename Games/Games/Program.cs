@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,13 +12,13 @@ public class Monster
     public void AttackWar(Warrior player,int reduce)
     {
         Random randomizer = new Random();
-        damage = randomizer.Next(0, 10);
+        damage = randomizer.Next(1, 10);
         player.health -= damage - reduce;
     }
     public void AttackWiz(Mage player)
     {
         Random randomizer = new Random();
-        damage = randomizer.Next(0, 10);
+        damage = randomizer.Next(1, 10);
         player.health -= damage;
     }
 }
@@ -75,7 +75,7 @@ public class Warrior : Player
     public int Defend(int damage)
     {
         Random rand = new Random();
-        int damagereduce = rand.Next(0, armor);
+        int damagereduce = rand.Next(0, damage);
         stamina -= 25;
         Console.WriteLine("{0} defends {1} damages!", name, damagereduce);
         return damagereduce;
@@ -243,10 +243,6 @@ public class Program
                 {
                     mage.Spell(monster);
                 }
-                else
-                {
-                    defence = warrior.Defend(monster.damage);
-                }
             }
             else
             {
@@ -260,10 +256,26 @@ public class Program
             }
             else
             {
-                monster.AttackWar(warrior,defence);
+                monster.AttackWar(warrior, defence);
             }
+            if (action == 2)
+            {
+                if(className == "Warrior")
+                {
+                    if (warrior.stamina < 25)
+                    {
+                        Console.WriteLine("Your stamina isn't enough to defend!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Monster tried to attack {0} damage", monster.damage);
+                        defence = warrior.Defend(monster.damage);
+                    }
+                }
+            }
+            
             Console.WriteLine(batas);
-            Console.WriteLine("The monster attacked you and dealt {0} damage", monster.damage);
+            Console.WriteLine("The monster attacked you and dealt {0} damage", monster.damage - defence);
         }
         Console.WriteLine("Press any key to exit");
         Console.ReadKey();
